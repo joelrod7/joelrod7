@@ -9,7 +9,7 @@
 
  🏢 I’m currently working on **Universidad de la Costa**
 
- 🧠 I’m currently learning **Dart, Django, React**
+ 🧠 I’m currently learning **Flutter, Django, React**
 
  📩 How to reach me **ing.joelrd7@gmail.com**
 
