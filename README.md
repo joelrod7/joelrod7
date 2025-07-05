@@ -20,10 +20,10 @@
 <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joelrod7&show_icons=true&locale=en&layout=compact" alt="joelrod7" />
 </p>
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
+  <!--
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelrod7)
-
+<!--
 </p>
